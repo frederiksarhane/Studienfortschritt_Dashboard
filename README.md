@@ -8,7 +8,7 @@ Sie benötigen:
 2. Installieren Sie Python 3.10
   
 3. Projektordner vorbereiten
-   Legen Sie den Projektordner auf ihrem Rechner ab und passen Sie den Pfad in der "main.py"-Datei in Zeile 206 an.
+   Legen Sie den Projektordner "Studienfortschritt_Dashboard.zip" enpackt auf ihrem Rechner ab und passen Sie den Pfad in der "main.py"-Datei in Zeile 206 an.
    Stellen Sie sicher, dass Sie während der Ausführung immer im richtigen Verzeichnis stehen.
 
 4. Virtuelle Umgebung Aktivieren und Bibliotheken laden
