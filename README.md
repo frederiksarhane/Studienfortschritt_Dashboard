@@ -1,6 +1,5 @@
 Installationsanleitung: 
 1. Voraussetzungen
-Sie benötigen:
 - Windows 10 oder 11
 - Eine funktionierende Internetverbindung
 - Die Projektdateien (main.py, CSV)
