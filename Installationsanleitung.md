@@ -2,11 +2,10 @@
 Bereitstellen des Dashboard-Prototypen über einen GitHub-Link.
 Installationsanleitung: 
 1. Voraussetzungen
-Sie benötigen:
 - Windows 10 oder 11
 - Eine funktionierende Internetverbindung
 - Die Projektdateien (main.py, CSV)
-- 
+  
 2. Installieren Sie Python 3.10
   
 3. Projektordner vorbereiten
